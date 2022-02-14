@@ -18,7 +18,7 @@ Then I see open positions
 When I click QA Engineer title
 Then I see QA Engineer job posting
 
-@focus
+
 Scenario: As a user, I would like to view a film page and navigate to its corresponding Amazon Prime Video page
 
 Given I open Home page
